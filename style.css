@@ -1,0 +1,53 @@
+h1 {
+    color: #3e6e7c;
+    font-size: 60px;
+}
+h2 {
+    color: #bc418c;
+}
+
+ul {
+    color: #702855;
+}
+
+
+.fantasy { font-family: fantasy; }
+
+.center{
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
+
+ul{
+    list-style-type: square;
+}
+
+
+* {
+
+    text-align: center;
+    
+    }
+    p1 {
+        color: #491899;
+        font-size: 20px;
+        text-align: left;
+    }
+
+body {
+    background: center url(coffee.png);
+    background-size: cover;
+}
+    
+blockquote {
+    font-style:italic;
+    line-height:32px;
+    font-size:20px;
+    color:#fff;
+    background: #3F51B5;
+    margin:10px;
+    padding: 15px 20px 15px 20px;
+    border-radius: 5px;
+    }
+    blockquote:before,
