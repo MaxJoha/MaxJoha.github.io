@@ -11,7 +11,8 @@ ul {
 }
 
 
-.fantasy { font-family: fantasy; }
+.fantasy {font-family: fantasy;}
+.serif {font-family: georgia, serif;}
 
 .center{
     width:200px;
@@ -33,6 +34,7 @@ ul{
         color: #491899;
         font-size: 20px;
         text-align: left;
+        border: 5px rgba(24, 108, 163, 0.623) inset;
     }
 
 body {
@@ -40,14 +42,3 @@ body {
     background-size: cover;
 }
     
-blockquote {
-    font-style:italic;
-    line-height:32px;
-    font-size:20px;
-    color:#fff;
-    background: #3F51B5;
-    margin:10px;
-    padding: 15px 20px 15px 20px;
-    border-radius: 5px;
-    }
-    blockquote:before,
